@@ -32,11 +32,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
- 
----
-
 <img align="left" alt="saif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4saif" />
 
 [website]: https://github.com/u4saif
