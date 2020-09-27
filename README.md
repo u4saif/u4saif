@@ -9,7 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="whatsapp | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="gmail | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
@@ -35,10 +37,12 @@
  
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=u4saif&show_icons=true&hide_border=true" />
+<img align="left" alt="saif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4saif" />
 
 [website]: https://github.com/u4saif
 [twitter]: https://twitter.com
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com
 [linkedin]: https://linkedin.com/in
+[whatsapp]: https://api.whatsapp.com/send?phone=919582855871
+[gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=u4saif@gmail.com
