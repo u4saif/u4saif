@@ -25,11 +25,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/u4saif/README.md/master/angular.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="react.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />][website]
 [<img align="left" alt="firebase" width="30px" src="https://raw.githubusercontent.com/u4saif/README.md/master/pngegg.png" />][website]
 [<img align="left" alt="jira" width="26px" src="https://raw.githubusercontent.com/u4saif/README.md/master/clipart2204623.png" />][website]
+[<img align="left" alt="mongoDb" width="70px" height="25px" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
- 
+ [<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />][website]
 <br />
 
 ---
