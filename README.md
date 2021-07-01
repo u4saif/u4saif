@@ -1,10 +1,10 @@
 ### Hi there, I'm Saifuddin - aka [Saif][website] 👋
 
-## I'm Bachelor, Developer, and Learner!
+## I'm ~~Bachelor~~, Developer, and Learner!
 - 🔭 I’m currently working on a Angular!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m always looking to collaborate with other developers to solve new problems
-- 🚀 2020 Goals: Contribute more 
+- 🚀 2021 Goals: Contribute more 
 - ⚡ Fun fact: I love to eat more. 
 
 ### Connect with me:
