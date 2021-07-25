@@ -17,6 +17,7 @@ Passionate about building excellent software that improves the lives of those ar
 
 
 <br />
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
