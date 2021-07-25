@@ -1,20 +1,27 @@
-### Hi there, I'm Saifuddin - aka [Saif][website] 👋
+### Hi there, I'm Saifuddin - aka [Saif][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  <img align="right" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=u4saif"/>
 
-## I'm ~~Bachelor~~, Developer, and Learner!
+#### I'm Bachelor, Web Developer, and Learner!
+Passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
+
+ <img align="right" alt="GIF" src="https://www.gottaperson.com/images/freelancer.gif" width="500" height="320"/>
+ 
 - 🔭 I’m currently working on a Angular!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m always looking to collaborate with other developers to solve new problems
 - 🚀 2021 Goals: Contribute more 
 - ⚡ Fun fact: I love to eat more. 
 
-### Connect with me:
+### :mailbox: Reach me out!
 
-[<img align="left" alt="whatsapp | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="gmail | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[![Linkedin Badge](https://img.shields.io/badge/-Saifuddin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifuddin-shaikh-1b4896bb/d/) [![Mail Badge](https://img.shields.io/badge/-u4saif-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:u4saif@gmail.com) [![whatsup Badge](https://img.shields.io/badge/-Saif-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=919582855871)
 
 
 <br />
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Angular Badge](https://img.shields.io/badge/-Angular-FF2E2E?style=for-the-badge&labelColor=black&logo=angular&logoColor=FF2E2E)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Firebase](https://img.shields.io/badge/-Firebase-FAD02C?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FAD02C)](#) [![mongoDb](https://img.shields.io/badge/-mongodb-0A7029?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=0A7029)](#)
 
 ### Languages and Tools:
 
@@ -38,10 +45,11 @@
 
 <img align="left" alt="saif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4saif" />
 
-[website]: https://github.com/u4saif
+[website]: https://imsaif.web.app
 [twitter]: https://twitter.com
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com
 [linkedin]: https://linkedin.com/in
 [whatsapp]: https://api.whatsapp.com/send?phone=919582855871
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=u4saif@gmail.com
+
