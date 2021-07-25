@@ -8,7 +8,7 @@ Passionate about building excellent software that improves the lives of those ar
 - 🔭 I’m currently working on a Angular!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m always looking to collaborate with other developers to solve new problems
-- 🚀 2021 Goals: Contribute more 
+- 🚀 2021 Goals: Contribute more & get Married 
 - ⚡ Fun fact: I love to eat more. 
 
 ### :mailbox: Reach me out!
@@ -44,13 +44,13 @@ Passionate about building excellent software that improves the lives of those ar
 
 ---
 
-<img align="left" alt="saif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4saif" />
+<img align="left" alt="saif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u4saif" />  <a align="right" href="https://www.buymeacoffee.com/s4saif" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 [website]: https://imsaif.web.app
 [twitter]: https://twitter.com
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com
-[linkedin]: https://linkedin.com/in
+[linkedin]: https://www.linkedin.com/in/saifuddin-shaikh-1b4896bb/
 [whatsapp]: https://api.whatsapp.com/send?phone=919582855871
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=u4saif@gmail.com
 
