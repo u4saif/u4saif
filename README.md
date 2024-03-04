@@ -8,7 +8,7 @@ Passionate about building excellent software that improves the lives of those ar
 - 🔭 I’m currently working on a Angular!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m always looking to collaborate with other developers to solve new problems
-- 🚀 2021 Goals: Contribute more & get Married 
+- 🚀 2024 Goals: Contribute more & get Married 
 - ⚡ Fun fact: I love to eat more. 
 
 ### :mailbox: Reach me out!
