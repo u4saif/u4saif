@@ -1,4 +1,4 @@
-### Hi there, I'm Saifuddin - aka [Saif][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  <div> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=u4saif)</div>
+### Hi there, I'm Saifuddin - aka [Saif][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 #### I'm Bachelor, Web Developer, and Learner!
 Passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
@@ -54,3 +54,4 @@ Passionate about building excellent software that improves the lives of those ar
 [whatsapp]: https://api.whatsapp.com/send?phone=919582855871
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=u4saif@gmail.com
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=u4saif)
