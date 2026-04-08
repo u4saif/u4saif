@@ -5,7 +5,7 @@ Passionate about building excellent software that improves the lives of those ar
 
  <img align="right" alt="GIF" src="https://www.gottaperson.com/images/freelancer.gif" width="500" height="320"/>
  
-- 🔭 I’m currently working on a Angular!
+- 🔭 I’m currently working on a Full Stack!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m always looking to collaborate with other developers to solve new problems
 - 🚀 2024 Goals: Contribute more & get Married 
